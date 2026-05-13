@@ -177,10 +177,7 @@ export default function Index() {
           <p
             className="max-w-md text-base font-light leading-relaxed text-muted-foreground opacity-0 animate-fade-up"
             style={{ animationDelay: "0.65s" }}
-          >
-            Создаю визуальные истории через минимализм и точность. Работаю с
-            брендами, которые ценят эстетику молчания.
-          </p>
+          >asASa</p>
           <div
             className="flex items-center gap-6 mt-12 opacity-0 animate-fade-up"
             style={{ animationDelay: "0.8s" }}
